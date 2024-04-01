@@ -27,6 +27,117 @@
             "title": "Latin America: A Fertile Ground for Maternalism",
             "title-short": "Latin America",
             "type": "article-journal"
+        },
+        {
+            "DOI": "10.46468/rsaap.15.2.A5",
+            "ISSN": "16667883, 18531970",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Alvarez Minte",
+                    "given": "Gabriela"
+                },
+                {
+                    "family": "Ramm",
+                    "given": "Alejandra"
+                },
+                {
+                    "family": "Gideon",
+                    "given": "Jasmine"
+                }
+            ],
+            "container-title": "REVISTA SAAP",
+            "id": "alvarezminteMaternidadCuidadosPoliticas2021",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        11
+                    ]
+                ]
+            },
+            "title": "Maternidad, cuidados, políticas públicas y COVID-19 en Chile",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.18046/recs.i35.4879",
+            "ISSN": "2665-4814, 2011-0324",
+            "abstract": "The COVID-19 pandemic has impacted the world population in different dimensions and has increased inequalities in different countries. In addition to the effects on the economy and health, transformations in daily life are observed, such as the massification of telework. This has implied the convergence of the domestic and working spaces, significantly affecting working mothers, who have increased their care workload, and impacting their daily routines and mental health. The main objective is to analyze the strategies developed by Chilean mothers, who telework from confinement measures, to deal with the conflict between care tasks and paid work. Through the analysis of eighteen semi-structured interviews, five types of strategies adopted by women in this context of double presence and unequal distribution of tasks were recognized: organizational in the absence of time control, multiplicity and simultaneity of tasks, school support and proximity, work against overload, resistance. , La pandemia de COVID-19 ha impactado a la población en distintas dimensiones, aumentando las desigualdades. Además de los efectos en la economía y la salud, se observan transformaciones en la cotidianidad, como la masificación del teletrabajo. Este hecho ha implicado una convergencia del espacio doméstico y el laboral, afectando en gran medida a las madres trabajadoras, quienes han aumentado su carga de trabajo de cuidados, impactando sus rutinas y su salud mental. El principal objetivo del presente artículo es analizar las estrategias que desarrollan madres chilenas que teletrabajan, a partir del confinamiento, para enfrentar las tareas de cuidado y su trabajo remunerado. Mediante el análisis de 18 entrevistas semiestructuradas, se reconocen 5 principales estrategias de las mujeres en este contexto: organización ante la ausencia de control del tiempo; multiplicidad y simultaneidad de tareas; apoyo escolar y proximidad; respuesta a la sobrecarga laboral, y resistencia. ,",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Arteaga-Aguirre",
+                    "given": "Catalina"
+                },
+                {
+                    "family": "Cabezas-Cartagena",
+                    "given": "Valentina"
+                },
+                {
+                    "family": "Ramírez-Cid",
+                    "given": "Fernanda"
+                }
+            ],
+            "container-title": "Revista CS",
+            "id": "arteaga-aguirreMujeresTeletrabajoEstrategias2021",
+            "issue": "35",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "page": "11-39",
+            "title": "Mujeres, teletrabajo y estrategias de cuidados en el contexto de pandemia en Chile",
+            "type": "article-journal"
+        },
+        {
+            "ISBN": "978-84-7800-274-0",
+            "collection-number": "150",
+            "collection-title": "Aquilafuente",
+            "edition": "1. ed",
+            "editor": [
+                {
+                    "family": "Lorenzo Pinar",
+                    "given": "Francisco Javier"
+                },
+                {
+                    "literal": "Universidad de Salamanca"
+                }
+            ],
+            "id": "lorenzopinarFamiliaHistoria2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "keyword": "Congresses,Families,History,Spain",
+            "publisher": "Ediciones Universidad de Salamanca",
+            "publisher-place": "Salamanca",
+            "title": "La familia en la historia",
+            "type": "book"
         }
     ],
     "project_biblios": []
