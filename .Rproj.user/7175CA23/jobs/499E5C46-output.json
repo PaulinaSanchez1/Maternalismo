@@ -1,0 +1,4 @@
+[1,"==> quarto preview Maternalismo.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: Maternalismo.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Maternalismo y educación\n  author: Paulina Sánchez González\n  editor: visual\n  bibliography:\n    - Maternalismo.bib\n  \n"]
+[1,"[WARNING] Citeproc: citation alvarezminteMaternidadCuidadosPoliticas2021 not found\r\n[WARNING] Citeproc: citation arteaga-aguirreMujeresTeletrabajoEstrategias2021 not found\r\n[WARNING] Citeproc: citation lorenzopinarFamiliaHistoria2009 not found\r\n[WARNING] Citeproc: citation rammLatinAmericaFertile2020 not found\r\n"]
+[1,"Output created: Maternalismo.html\n\nWatching files for changes\nBrowse at http://localhost:3049/\n"]
