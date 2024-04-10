@@ -53,16 +53,3 @@
   lccn = {HQ649 .J67 2008},
   keywords = {Congresses,Families,History,Spain}
 }
-
-@book{lafamil2009,
-	title = {La familia en la historia},
-	editor = {Lorenzo Pinar, Francisco Javier and Universidad de Salamanca, },
-	year = {2009},
-	date = {2009},
-	publisher = {Ediciones Universidad de Salamanca},
-	series = {Aquilafuente},
-	number = {150},
-	edition = {1. ed},
-	note = {Meeting Name: Jornadas de Estudios Históricos (Salamanca, Spain)},
-	address = {Salamanca}
-}

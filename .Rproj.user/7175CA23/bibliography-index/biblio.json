@@ -138,6 +138,33 @@
             "publisher-place": "Salamanca",
             "title": "La familia en la historia",
             "type": "book"
+        },
+        {
+            "collection-number": "150",
+            "collection-title": "Aquilafuente",
+            "edition": "1. ed",
+            "editor": [
+                {
+                    "family": "Lorenzo Pinar",
+                    "given": "Francisco Javier"
+                },
+                {
+                    "family": "Universidad de Salamanca"
+                }
+            ],
+            "id": "lafamil2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "note": "Meeting Name: Jornadas de Estudios Históricos (Salamanca, Spain)",
+            "publisher": "Ediciones Universidad de Salamanca",
+            "publisher-place": "Salamanca",
+            "title": "La familia en la historia",
+            "type": "book"
         }
     ],
     "project_biblios": []
