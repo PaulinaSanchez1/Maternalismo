@@ -1,0 +1,30 @@
+install.packages("pacman")
+
+pacman::p_load(dplyr, sjmisc, car, sjlabelled, stargazer, haven)
+
+rm(list=ls())       # borrar todos los objetos en el espacio de trabajo
+options(scipen=999) # valores sin notación científica
+
+INJUV2022J <- read_dta("input/BBDD Respuesta - Encuesta Jóvenes.dta")
+
+dim(INJUV2022J) # dimension de la base
+
+find_var(data = INJUV2022,"mujer")
+
+find_var(data = INJUV2022,"nivel educacion")
+
+find_var(data = INJUV2022,"sexo")
+
+find_var(data = INJUV2022,"edad")
+
+proc_data <- INJUV2022 %>% select(P23_1, # Sexo
+                                  P23_2, # Edad
+                                            P13, # Nivel educacional alcanzado
+                                            P11_1,# Maternalismo Cuidados
+                                            P11_4)# Maternalismo Hijos
+                                             
+
+# Comprobar
+names(proc_data)
+
+sjlabelled::get_label(proc_data)
