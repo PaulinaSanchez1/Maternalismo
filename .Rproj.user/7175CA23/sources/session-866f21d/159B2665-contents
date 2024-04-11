@@ -1,0 +1,11 @@
+install.packages("pacman")
+
+pacman::p_load(dplyr, sjmisc, car, sjlabelled, stargazer, haven)
+
+rm(list=ls())       # borrar todos los objetos en el espacio de trabajo
+options(scipen=999) # valores sin notación científica
+
+INJUV2022 <- read_dta("input/BBDD Respuesta - Encuestas Adultos.dta")
+
+dim(INJUV2022) # dimension de la base
+

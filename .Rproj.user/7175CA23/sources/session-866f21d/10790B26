@@ -3,9 +3,9 @@
     "path": "~/GitHub/Maternalismo/Maternalismo.qmd",
     "project_path": "Maternalismo.qmd",
     "type": "quarto_markdown",
-    "hash": "4139457612",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1712005819957.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "11,0",
+        "cursorPosition": "28,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "324:165.60000610351562"
+        "rmdVisualModeLocation": "5039:3916.800048828125"
     },
     "folds": "",
     "lastKnownWriteTime": 1712717028,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712717028731,
+    "last_content_update": 1712874576746,
     "read_only": false,
     "read_only_alternatives": []
 }
